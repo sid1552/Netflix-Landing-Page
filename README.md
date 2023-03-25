@@ -20,7 +20,7 @@ There are no automated tests for this project.
 
 ### Deployment
 
-To deploy the project, simply upload the files to a web server or hosting service.
+To deploy the project, simply upload the files to a web server or hosting service or go to this link https://sid1552.github.io/Netflix-Landing-Page/
 
 ## Built With
 
