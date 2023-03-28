@@ -2,6 +2,8 @@
 
 A replica of the Netflix front page built using HTML, CSS, and JavaScript.
 
+![Screenshot](Screenshot.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
